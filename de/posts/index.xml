@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikel on Fynn&#39;s Website (WIP)</title>
+    <link>http://leitow.eu/de/posts/</link>
+    <description>Recent content in Artikel on Fynn&#39;s Website (WIP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate>
+    
+	<atom:link href="http://leitow.eu/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://leitow.eu/de/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>http://leitow.eu/de/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/introduction/</guid>
+      <description>Hallo! Dies ist ein Einleitungsbeitrag. Er testet:
+ Hero image im selben directory Der Post sollte oben in der sidebar sein Der Autor sollte wie im author.yaml sein  </description>
+    </item>
+    
+    <item>
+      <title>Markdown Beispiel</title>
+      <link>http://leitow.eu/de/posts/markdown-sample/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/markdown-sample/</guid>
+      <description>Dieser Beispielpost testet:
+ Einen anderen Autor Inhaltsverzeichnis Markdown Inhalte Mathematische Formeln Emojis   Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Beispiele</title>
+      <link>http://leitow.eu/de/posts/shortcodes/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/shortcodes/</guid>
+      <description>Dieser Beispielpost testet:
+ Standard Hero image Verschiedene shortcodes  Alerts Die folgenden Alerts sind in diesem Theme verfügbar:
+Mit type=&amp;quot;success&amp;quot;  Mit type=&amp;quot;danger&amp;quot;  Mittype=&amp;quot;warning&amp;quot;  Mit type=&amp;quot;info&amp;quot;  type=&amp;quot;dark&amp;quot;  Mit `type=&amp;quot;primary&amp;rdquo;  এটা type=&amp;quot;secondary&amp;quot; দিয়ে নমুনা এলার্ট।  ছবি কোন ধরনের attribute ছাড়া ছবির একটি নমুনা।  height এবং width attribute সহ ছবির একটি নমুনা।  height এবং width attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা।  float attribute সহ ছবির একটি নমুনা। Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

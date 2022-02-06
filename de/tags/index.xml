@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fynn&#39;s Website (WIP)</title>
+    <link>http://leitow.eu/de/tags/</link>
+    <description>Recent content in Tags on Fynn&#39;s Website (WIP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate>
+    
+	<atom:link href="http://leitow.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grundlagen</title>
+      <link>http://leitow.eu/de/tags/grundlagen/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/tags/grundlagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inhalte organisieren</title>
+      <link>http://leitow.eu/de/tags/inhalte-organisieren/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/tags/inhalte-organisieren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://leitow.eu/de/tags/markdown/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehrsprachig</title>
+      <link>http://leitow.eu/de/tags/mehrsprachig/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/tags/mehrsprachig/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

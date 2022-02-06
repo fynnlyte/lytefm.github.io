@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grundlagen on Fynn&#39;s Website (WIP)</title>
+    <link>http://leitow.eu/de/categories/grundlagen/</link>
+    <description>Recent content in Grundlagen on Fynn&#39;s Website (WIP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate>
+    
+	<atom:link href="http://leitow.eu/de/categories/grundlagen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eingebettete Inhalte</title>
+      <link>http://leitow.eu/de/posts/category/sub-category/rich-content/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/category/sub-category/rich-content/</guid>
+      <description>Dieser Beispielpost testet folgendes:
+ Kategorie und Unterkategorie in der Seitenleiste „Hero image” und weitere Bilder im Ordner images innerhalb des Ordners für diesen Post Medieninhalte wie Bilder Tweets, YouTube videos, Vimeo videos etc.  Beispielbild  Twitter Beispielpost */}}  -- Youtube Beispielvideo    Vimeo Beispielvideo   </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>http://leitow.eu/de/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/introduction/</guid>
+      <description>Hallo! Dies ist ein Einleitungsbeitrag. Er testet:
+ Hero image im selben directory Der Post sollte oben in der sidebar sein Der Autor sollte wie im author.yaml sein  </description>
+    </item>
+    
+  </channel>
+</rss>

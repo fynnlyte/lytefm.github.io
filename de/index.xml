@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fynn&#39;s Website (WIP)</title>
+    <link>http://leitow.eu/de/</link>
+    <description>Recent content on Fynn&#39;s Website (WIP)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate>
+    
+	<atom:link href="http://leitow.eu/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go Einführung</title>
+      <link>http://leitow.eu/de/notes/go/basic/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://leitow.eu/de/notes/go/basic/introduction/</guid>
+      <description>Hello World Dies ist ein Beispielprogramm in Go:
+package main import &amp;#34;fmt&amp;#34; func main() { message := greetMe(&amp;#34;world&amp;#34;) fmt.Println(message) } func greetMe(name string) string { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34; } Führe das Programm wie folgt aus:
+$ go run hello.go     Variables Normale Deklaration:
+var msg string msg = &amp;#34;Hello&amp;#34; Kurzform:
+msg := &amp;#34;Hello&amp;#34;     Constants const Phi = 1.618     </description>
+    </item>
+    
+    <item>
+      <title>Grundlagen: Typen</title>
+      <link>http://leitow.eu/de/notes/go/basic/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://leitow.eu/de/notes/go/basic/types/</guid>
+      <description>Strings str := &amp;#34;Hello&amp;#34; String über mehrere Zeilen
+str := `Multiline string`     Numbers Übliche Typen
+num := 3 // int num := 3. // float64 num := 3 + 4i // complex128 num := byte(&amp;#39;a&amp;#39;) // byte (alias for uint8) Weitere Typen
+var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float     Arrays // var numbers [5]int numbers := [.</description>
+    </item>
+    
+    <item>
+      <title>Flow Control</title>
+      <link>http://leitow.eu/de/notes/go/basic/flow-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://leitow.eu/de/notes/go/basic/flow-control/</guid>
+      <description>Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;)     Switch switch day { case &amp;#34;sunday&amp;#34;: // cases don&amp;#39;t &amp;#34;fall through&amp;#34; by default!  fallthrough case &amp;#34;saturday&amp;#34;: rest() default: work() }     Loop for count := 0; count &amp;lt;= 10; count++ { fmt.</description>
+    </item>
+    
+    <item>
+      <title>Bash Variablen</title>
+      <link>http://leitow.eu/de/notes/bash/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://leitow.eu/de/notes/bash/basic/</guid>
+      <description>Variable NAME=&amp;#34;John&amp;#34; echo $NAME echo &amp;#34;$NAME&amp;#34; echo &amp;#34;${NAME}    Bedingung if [[ -z &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is empty&amp;#34; elif [[ -n &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is not empty&amp;#34; fi     </description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://leitow.eu/de/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://leitow.eu/de/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Eingebettete Inhalte</title>
+      <link>http://leitow.eu/de/posts/category/sub-category/rich-content/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/category/sub-category/rich-content/</guid>
+      <description>Dieser Beispielpost testet folgendes:
+ Kategorie und Unterkategorie in der Seitenleiste „Hero image” und weitere Bilder im Ordner images innerhalb des Ordners für diesen Post Medieninhalte wie Bilder Tweets, YouTube videos, Vimeo videos etc.  Beispielbild  Twitter Beispielpost */}}  -- Youtube Beispielvideo    Vimeo Beispielvideo   </description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>http://leitow.eu/de/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/introduction/</guid>
+      <description>Hallo! Dies ist ein Einleitungsbeitrag. Er testet:
+ Hero image im selben directory Der Post sollte oben in der sidebar sein Der Autor sollte wie im author.yaml sein  </description>
+    </item>
+    
+    <item>
+      <title>Markdown Beispiel</title>
+      <link>http://leitow.eu/de/posts/markdown-sample/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/markdown-sample/</guid>
+      <description>Dieser Beispielpost testet:
+ Einen anderen Autor Inhaltsverzeichnis Markdown Inhalte Mathematische Formeln Emojis   Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Beispiele</title>
+      <link>http://leitow.eu/de/posts/shortcodes/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://leitow.eu/de/posts/shortcodes/</guid>
+      <description>Dieser Beispielpost testet:
+ Standard Hero image Verschiedene shortcodes  Alerts Die folgenden Alerts sind in diesem Theme verfügbar:
+Mit type=&amp;quot;success&amp;quot;  Mit type=&amp;quot;danger&amp;quot;  Mittype=&amp;quot;warning&amp;quot;  Mit type=&amp;quot;info&amp;quot;  type=&amp;quot;dark&amp;quot;  Mit `type=&amp;quot;primary&amp;rdquo;  এটা type=&amp;quot;secondary&amp;quot; দিয়ে নমুনা এলার্ট।  ছবি কোন ধরনের attribute ছাড়া ছবির একটি নমুনা।  height এবং width attribute সহ ছবির একটি নমুনা।  height এবং width attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা।  float attribute সহ ছবির একটি নমুনা। Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

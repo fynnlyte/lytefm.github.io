@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/basic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/go/basic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/go/basic/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/basic/introduction/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/go/basic/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/go/basic/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/basic/types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/go/basic/types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/go/basic/types/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/advanced/_index.bn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/basic/flow-control/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/go/basic/flow-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/go/basic/flow-control/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/advanced/files/</loc>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/bash/basic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/bash/basic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/bash/basic/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/tags/basic/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/categories/basic/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/categories/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/tags/content-organization/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/introduction/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/tags/markdown/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/tags/markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/markdown-sample/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/markdown-sample/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/markdown-sample/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/tags/multi-lingual/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/category/sub-category/rich-content/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/category/sub-category/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/category/sub-category/rich-content/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/shortcodes/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/shortcodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/category/sub-category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/category/sub-category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/category/sub-category/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/tags/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/posts/category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/posts/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/posts/category/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/bash/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/bash/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/notes/go/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/notes/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/notes/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://leitow.eu/search/</loc>
+    <priority>0.1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://leitow.eu/de/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://leitow.eu/search/"
+                />
+  </url>
+  
+</urlset>
